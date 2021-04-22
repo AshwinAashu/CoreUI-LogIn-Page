@@ -14,10 +14,10 @@ Learning Curve involved :
 <h2>Screenshots for Reference</h2>
 
 <h3> Log In page </h3>
-<img src="./screenshots/capture1.JPG">
+<img src="./screenshots/Capture1.JPG">
 <br>
 <h3> Register Page </h3>
-<img src="./screenshots/capture2.JPG">
+<img src="./screenshots/Capture2.JPG">
 
 
 
